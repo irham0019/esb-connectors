@@ -15,7 +15,7 @@
    specific language governing permissions and limitations
    under the License.
 -->
-<template xmlns="http://ws.apache.org/ns/synapse" name="searchcompanies">
+<template xmlns="http://ws.apache.org/ns/synapse" name="searchCompanies">
 
         <parameter name="searchTerm" description="The company being searched for"/>
         <parameter name="itemsPerPage" description="items per page"/>

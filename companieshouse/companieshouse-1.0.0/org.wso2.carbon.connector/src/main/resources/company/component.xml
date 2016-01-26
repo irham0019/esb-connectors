@@ -18,7 +18,7 @@
 -->
 <component name="company" type="synapse/template" >
     <subComponents> 
-		<component name="searchcompanies" >
+		<component name="searchCompanies" >
 	    		<file>searchcompanies.xml</file>
 	    		<description>Search companies in company house lookup connector method</description>
 		</component>			
